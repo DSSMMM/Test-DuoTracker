@@ -1,0 +1,1 @@
+export const ExpenseCharts = () => null;
